@@ -1,0 +1,7 @@
+dependencies:
+  - python=2
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - notebook
